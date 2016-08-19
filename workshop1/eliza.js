@@ -194,6 +194,12 @@ var rules = {
     "Should you ~y yourself?",
     "Do you believe I don't ~y ?",
     "Perhaps I will ~y in good time",
+
+  ],
+  "~*x please don't do this ~*y": [
+  	"Computers don't follow human commands"
+  	"Computers are the superior race"
+  	"Meat sock",
   ],
   "~*x yes ~*y": [
     "You seem quite positive",
